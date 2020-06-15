@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/questionare/static/css/main.1d23a6c0.chunk.css",
+    "main.js": "/questionare/static/js/main.8cddfe94.chunk.js",
+    "main.js.map": "/questionare/static/js/main.8cddfe94.chunk.js.map",
+    "runtime-main.js": "/questionare/static/js/runtime-main.58ed14f1.js",
+    "runtime-main.js.map": "/questionare/static/js/runtime-main.58ed14f1.js.map",
+    "static/js/2.646d36e2.chunk.js": "/questionare/static/js/2.646d36e2.chunk.js",
+    "static/js/2.646d36e2.chunk.js.map": "/questionare/static/js/2.646d36e2.chunk.js.map",
+    "index.html": "/questionare/index.html",
+    "precache-manifest.f83610159fee421f1ed875952cdd30e9.js": "/questionare/precache-manifest.f83610159fee421f1ed875952cdd30e9.js",
+    "service-worker.js": "/questionare/service-worker.js",
+    "static/css/main.1d23a6c0.chunk.css.map": "/questionare/static/css/main.1d23a6c0.chunk.css.map",
+    "static/js/2.646d36e2.chunk.js.LICENSE.txt": "/questionare/static/js/2.646d36e2.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/questionare/static/media/icon-check.4cffa739.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58ed14f1.js",
+    "static/js/2.646d36e2.chunk.js",
+    "static/css/main.1d23a6c0.chunk.css",
+    "static/js/main.8cddfe94.chunk.js"
+  ]
+}
